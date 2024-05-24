@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+orlab.com.vn	TRUE	/	FALSE	1999999999	__wpdm_client	342be5eb9b291bbd4e43c0fa1bb84e99
+orlab.com.vn	TRUE	/	FALSE	1999999999	pll_language	vi
+orlab.com.vn	TRUE	/	FALSE	1999999999	SameSite	Lax
+
